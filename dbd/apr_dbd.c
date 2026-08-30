@@ -570,3 +570,5 @@ APR_DECLARE(apr_status_t) apr_dbd_datum_get(const apr_dbd_driver_t *driver,
 {
     return driver->datum_get(row,col,type,data);
 }
+
+// aeb148

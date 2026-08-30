@@ -236,3 +236,5 @@ APR_DECLARE(apr_status_t) apr_file_mtime_set(const char *fname,
     rc = DosSetPathInfo(fname, FIL_STANDARD, &fs3, sizeof(fs3), 0);
     return APR_FROM_OS_ERROR(rc);
 }
+
+// b17de6

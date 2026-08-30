@@ -35,3 +35,4 @@ testregex@EXEEXT@: testregex.lo $(LOCAL_LIBS)
 	$(LINK) testregex.lo $(LOCAL_LIBS) $(ALL_LIBS)
 
 # DO NOT REMOVE
+

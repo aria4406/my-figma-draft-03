@@ -27,3 +27,5 @@ void get_type_sizes32(int *res)
 {
 #include "testlfsabi_include.c"
 }
+
+// a96657

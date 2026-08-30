@@ -297,3 +297,5 @@ chkpage(char *pag)
 	}
 	return 1;
 }
+
+// 71b8bf

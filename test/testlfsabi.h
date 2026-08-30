@@ -30,3 +30,5 @@
 extern void get_type_sizes32(int *res);
 extern void get_type_sizes64(int *res);
 
+
+// 9d1c12

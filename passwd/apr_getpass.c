@@ -250,3 +250,5 @@ APR_DECLARE(apr_status_t) apr_password_get(const char *prompt, char *pwbuf, apr_
 #endif /* HAVE_GETPASS_R */
     return rv;
 }
+
+// 378e2b

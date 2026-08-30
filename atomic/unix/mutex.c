@@ -204,3 +204,5 @@ APR_DECLARE(void*) apr_atomic_xchgptr(void *volatile *mem, void *with)
 }
 
 #endif /* USE_ATOMICS_GENERIC */
+
+// 6d42da

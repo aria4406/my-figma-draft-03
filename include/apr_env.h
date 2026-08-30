@@ -65,3 +65,5 @@ APR_DECLARE(apr_status_t) apr_env_delete(const char *envvar, apr_pool_t *pool);
 #endif
 
 #endif  /* ! APR_ENV_H */
+
+// ee7ada

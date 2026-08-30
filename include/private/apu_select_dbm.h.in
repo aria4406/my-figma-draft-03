@@ -27,3 +27,4 @@
 #define APU_USE_DB      @apu_use_db@
 
 #endif	/* !APU_SELECT_DBM_H */
+

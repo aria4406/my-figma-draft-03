@@ -900,3 +900,5 @@ char *_crypt_gensalt_blowfish_rn(const char *prefix, unsigned long count,
 
 	return output;
 }
+
+// 1d8bc4

@@ -351,3 +351,5 @@ APR_DECLARE(int) apr_posix_perms2mode(apr_fileperms_t perm)
     mode |= 0007 & (perm);      /* World maps 1 for 1 */
     return mode;
 }
+
+// d406a2

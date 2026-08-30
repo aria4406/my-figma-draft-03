@@ -31,3 +31,4 @@ testall = tenv.Program('testall', source = ["test/"+t for t in tests])
 targets = [libapr, testall]
 
 Return("targets")
+

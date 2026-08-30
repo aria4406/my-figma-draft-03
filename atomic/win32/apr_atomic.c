@@ -105,3 +105,5 @@ APR_DECLARE(void*) apr_atomic_xchgptr(void *volatile *mem, void *with)
 {
     return InterlockedExchangePointer(mem, with);
 }
+
+// ab9409

@@ -9,3 +9,4 @@ Description: The Apache Portable Runtime library
 Version: @APR_DOTTED_VERSION@
 Libs: -L${libdir} -l@APR_LIBNAME@ @EXTRA_LIBS@
 Cflags: @EXTRA_CPPFLAGS@ @EXTRA_CFLAGS@ -I${includedir}
+

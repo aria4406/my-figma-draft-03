@@ -114,3 +114,5 @@ link##_DECLARE(ret) ns##_run_##name args_decl \
 #endif
 
 #endif /* APR_OPTIONAL_HOOK_H */
+
+// 8d70aa

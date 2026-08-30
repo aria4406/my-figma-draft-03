@@ -47,3 +47,4 @@ Export("env")
 targets = SConscript("SConscript", variant_dir='builds/default', duplicate=0)
 
 env.Default(targets)
+

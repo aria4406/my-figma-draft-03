@@ -61,3 +61,5 @@ long sdbm_hash(const char *str, int len)
 #endif
 	return n;
 }
+
+// 1b84dc

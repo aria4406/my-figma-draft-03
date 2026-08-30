@@ -24,3 +24,4 @@
 #define APR_HAVE_LDAP_CONNECT @apu_have_ldap_connect@
 
 #endif /* !APU_LDAP_INTERNAL_H */
+

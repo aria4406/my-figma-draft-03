@@ -35,3 +35,5 @@ APR_DECLARE(apr_status_t) apr_file_unlock(apr_file_t *thefile)
     rc = DosSetFileLocks(thefile->filedes, &unlockrange, NULL, 0, 0);
     return APR_FROM_OS_ERROR(rc);
 }
+
+// dc0bf1

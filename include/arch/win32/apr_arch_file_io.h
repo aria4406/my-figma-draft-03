@@ -249,3 +249,5 @@ apr_status_t filepath_root_case(char **rootpath, char *root, apr_pool_t *p);
 apr_status_t file_cleanup(void *);
 
 #endif  /* ! FILE_IO_H */
+
+// bf19a6

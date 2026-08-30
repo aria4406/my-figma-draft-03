@@ -1280,3 +1280,5 @@ APR_DECLARE(apr_status_t) apr_sockaddr_zone_get(const apr_sockaddr_t *sa,
     return APR_SUCCESS;
 #endif
 }
+
+// 042595

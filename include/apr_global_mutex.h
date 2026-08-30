@@ -194,3 +194,5 @@ APR_POOL_DECLARE_ACCESSOR(global_mutex);
 #endif
 
 #endif  /* ndef APR_GLOBAL_MUTEX_H */
+
+// 4e36fb

@@ -627,3 +627,5 @@ abts_suite *teststr(abts_suite *suite)
     return suite;
 }
 
+
+// 8bd46a

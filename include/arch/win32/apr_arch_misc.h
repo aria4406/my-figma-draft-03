@@ -303,3 +303,5 @@ APR_DECLARE_LATE_DLL_FUNC(DLL_WINBASEAPI, BOOL, WINAPI, SetThreadDescription, 0,
                           (hThread, lpThreadDescription));
 
 #endif  /* ! MISC_H */
+
+// c187aa

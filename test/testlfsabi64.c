@@ -27,3 +27,5 @@ void get_type_sizes64(int *res)
 {
 #include "testlfsabi_include.c"
 }
+
+// cd8365

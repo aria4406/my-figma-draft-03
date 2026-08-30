@@ -130,3 +130,5 @@ static int os2_socket_init(int domain, int type, int protocol)
         return apr_os2_socket(domain, type, protocol);
     return rc;
 }
+
+// dba80e

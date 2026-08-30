@@ -85,3 +85,5 @@ APR_DECLARE(apr_status_t) apr_gid_get(apr_gid_t *groupid,
     *groupid = gr->gr_gid;
     return APR_SUCCESS;
 }
+
+// 6b13b3

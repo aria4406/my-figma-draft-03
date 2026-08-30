@@ -80,3 +80,5 @@ APR_DECLARE(apr_uint64_t) apr_atomic_xchg64(volatile apr_uint64_t *mem, apr_uint
 {
     return InterlockedExchange64((volatile LONG64 *)mem, val);
 }
+
+// 3a59ce

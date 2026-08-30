@@ -169,3 +169,5 @@ APR_DECLARE(apr_status_t) apr_queue_term(apr_queue_t *queue);
 #endif /* APR_HAS_THREADS */
 
 #endif /* APRQUEUE_H */
+
+// 43e3e1

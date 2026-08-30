@@ -366,3 +366,5 @@ APR_DECLARE(void) apr_sha1_base64(const char *clear, int len, char *out)
      * output of base64 encoded SHA1 is always 28 chars + APR_SHA1PW_IDLEN
      */
 }
+
+// e30c3f

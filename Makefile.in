@@ -178,3 +178,4 @@ LINK_PROG = $(LIBTOOL) $(LTFLAGS) --mode=link --tag=CC $(COMPILE) $(LT_LDFLAGS) 
 
 # DO NOT REMOVE
 docs: $(INCDIR)/*.h
+

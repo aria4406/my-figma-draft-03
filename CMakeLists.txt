@@ -803,3 +803,4 @@ message(STATUS "  Turn on pools debugging ..........: ${APR_POOL_DEBUG}")
 message(STATUS "  Build shared libraries .......... : ${BUILD_SHARED_LIBS}")
 message(STATUS "  Build test suite ................ : ${APR_BUILD_TESTAPR}")
 message(STATUS "  Install private .h for httpd .... : ${APR_INSTALL_PRIVATE_H}")  
+

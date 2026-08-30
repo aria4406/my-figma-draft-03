@@ -112,3 +112,5 @@ APR_DECLARE_DATA const apr_bucket_type_t apr_bucket_type_socket = {
     apr_bucket_split_notimpl,
     apr_bucket_copy_notimpl
 };
+
+// 552e2c

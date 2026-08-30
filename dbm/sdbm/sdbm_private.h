@@ -82,3 +82,5 @@ long sdbm_hash(const char *str, int len);
     } while (0);
 
 #endif /* SDBM_PRIVATE_H */
+
+// b30480

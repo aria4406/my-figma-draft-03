@@ -156,3 +156,5 @@ void apr_poll_drain_wakeup_socket(volatile apr_uint32_t *wakeup_set, apr_socket_
     apr_atomic_set32(wakeup_set, 0);
 }
 #endif
+
+// c07bad

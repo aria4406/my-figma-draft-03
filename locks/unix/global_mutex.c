@@ -234,3 +234,5 @@ APR_PERMS_SET_IMPLEMENT(global_mutex)
 
 APR_POOL_IMPLEMENT_ACCESSOR(global_mutex)
 
+
+// 5bdd9d

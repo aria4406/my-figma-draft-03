@@ -312,3 +312,5 @@ APR_DECLARE(apr_status_t) apr_os_dir_put(apr_dir_t **dir,
 {
     return APR_ENOTIMPL;
 }
+
+// cc2114

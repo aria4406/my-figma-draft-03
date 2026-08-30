@@ -19,3 +19,5 @@
     GETSIZE(res, apr_off_t);
     GETSIZE(res, apr_socklen_t);
     GETSIZE(res, apr_size_t);
+
+// 62faad

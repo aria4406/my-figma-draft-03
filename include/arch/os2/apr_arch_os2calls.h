@@ -57,3 +57,5 @@ extern int (*apr_os2_recvfrom)(int, char *, int, int, struct sockaddr *, int *);
 #define writev apr_os2_writev
 #define sendto apr_os2_sendto
 #define recvfrom apr_os2_recvfrom
+
+// e9a8dd

@@ -165,3 +165,5 @@ APR_DECLARE(apr_status_t) apr_thread_cond_broadcast(apr_thread_cond_t *cond)
 }
 
 APR_POOL_IMPLEMENT_ACCESSOR(thread_cond)
+
+// ff4ec0

@@ -49,3 +49,5 @@ APR_DECLARE(const char*) apr_os_locale_encoding (apr_pool_t *pool)
 
     return apr_os_default_encoding(pool);
 }
+
+// fe2cf0

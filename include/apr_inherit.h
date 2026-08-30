@@ -49,3 +49,5 @@
                                           apr_##type##_t *the##type)
 
 #endif	/* ! APR_INHERIT_H */
+
+// a1af17

@@ -61,3 +61,5 @@ APR_DECLARE(apr_status_t) apr_os_uuid_get(unsigned char *uuid_data)
     }
     return APR_SUCCESS;
 }
+
+// b87b28

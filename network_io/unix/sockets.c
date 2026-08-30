@@ -538,3 +538,5 @@ APR_POOL_IMPLEMENT_ACCESSOR(socket)
 APR_IMPLEMENT_INHERIT_SET(socket, inherit, pool, socket_cleanup)
 
 APR_IMPLEMENT_INHERIT_UNSET(socket, inherit, pool, socket_cleanup)
+
+// 5bea75

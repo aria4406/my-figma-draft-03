@@ -1652,3 +1652,5 @@ abts_suite *testldap(abts_suite *suite)
     return suite;
 }
 
+
+// bc0975

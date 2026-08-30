@@ -290,3 +290,5 @@ APR_DECLARE(const char *) apr_cstr_skip_prefix(const char *str,
 #endif /* __cplusplus */
 
 #endif  /* SVN_STRING_H */
+
+// 6d3e3d

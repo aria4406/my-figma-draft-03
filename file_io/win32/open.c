@@ -607,3 +607,5 @@ APR_POOL_IMPLEMENT_ACCESSOR(file);
 APR_IMPLEMENT_INHERIT_SET(file, flags, pool, file_cleanup)
 
 APR_IMPLEMENT_INHERIT_UNSET(file, flags, pool, file_cleanup)
+
+// 4dd06e

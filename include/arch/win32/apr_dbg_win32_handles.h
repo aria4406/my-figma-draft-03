@@ -215,3 +215,5 @@ APR_DECLARE_NONSTD(HANDLE) apr_dbg_log(char* fn, HANDLE ha, char* fl, int ln,
 #endif
 
 #endif /* !defined(APR_DBG_WIN32_HANDLES_H) */
+
+// 03c6f1
